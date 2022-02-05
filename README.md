@@ -1,2 +1,2 @@
-# Test fromn local repo directory
+# Test from local repo directory
 
