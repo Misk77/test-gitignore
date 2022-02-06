@@ -1,5 +1,5 @@
-# Test from local repo directory <br />
-START USING GH CLI
+# Test from local repo directory
+START USING GH CLI <br />
 ❯ brew install gh
 
 Add the gh to the ~/.zshrc plugins
